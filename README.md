@@ -1,2 +1,2 @@
-# Spam-Detection
-Basic Ml Model to 
+# SpamEmail-Detection
+Basic Ml Model to detect the spam emails
